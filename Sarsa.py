@@ -1,5 +1,10 @@
 import numpy as np
 import matplotlib.pylab as plt
+########################################### 
+
+def epsilon_change(a):
+	pass
+
 ############ making a grid  ########################
 alpha = 0.2
 m, n = 4, 12
